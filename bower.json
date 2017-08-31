@@ -2,6 +2,9 @@
   "name": "score.js",
   "description": "Scoring, levels, checkpoints and badges in Javascript",
   "main": "lib/score.js",
+  "keywords": [
+    "3dorchard"
+  ],
   "authors": [
     "Nic Mulvaney"
   ],
