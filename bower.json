@@ -1,9 +1,11 @@
 {
   "name": "score.js",
+  "version": "0.0.1",
   "description": "Scoring, levels, checkpoints and badges in Javascript",
   "main": "lib/score.js",
   "keywords": [
-    "3dorchard"
+    "3dorchard",
+    "gamification"
   ],
   "authors": [
     "Nic Mulvaney"
