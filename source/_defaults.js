@@ -6,53 +6,53 @@ Score.prototype._defaults = {
 	levels:[
 		{
 			"checkmark": 0,
-			"status":"turtle",
-			"quote":"You're just a little newbie"
+			"status":"CADpole",
+			"quote":"Let the games begin"
 		},
 		{
-			"checkmark": 50,
-			"status":"sheep",
-			"quote":"You're certainly not following the herd"
+			"checkmark": 1000,
+			"status":"CADet",
+			"quote":"Me seeks and destroys"
 		},
 		{
-			"checkmark": 150,
-			"status":"pig",
-			"quote":"Oh my god, smokey bacon!"
+			"checkmark": 3000,
+			"status":"MadCADder",
+			"quote":"We've got a winner"
 		},
 		{
-			"checkmark": 300,
-			"status":"rabbit",
+			"checkmark": 7000,
+			"status":"NinjaCAD",
 			"quote":"Ok, I'll admit you're a speed deamon"
 		},
 		{
-			"checkmark": 600,
-			"status":"cat",
+			"checkmark": 15000,
+			"status":"Oracle...CAD",
 			"quote":"Your powers are strong my friend"
 		},
 		{
-			"checkmark": 1200,
-			"status":"octopus",
+			"checkmark": 31000,
+			"status":"MagicCAD",
 			"quote":"Your reach is far"
 		},
 		{
-			"checkmark": 2000,
-			"status":"bee",
+			"checkmark": 63000,
+			"status":"OmniCAD",
 			"quote":"The busiest player i've ever seen"
 		},
 		{
-			"checkmark": 2500,
+			"checkmark": 127000,
 			"status":"horse",
 			"quote":"Oh boy, you're a powerful stallion"
 		},
 		{
-			"checkmark": 3000,
-			"status":"gorilla",
+			"checkmark": 255000,
+			"status":"BreakingCAD",
 			"quote":"You're a true survivor, grrr!"
 		},
 		{
-			"checkmark": 4000,
-			"status":"dolphin",
-			"quote":"You've arrived! you will be known forever as a Legend"
+			"checkmark": 511000,
+			"status":"YouWin",
+			"quote":"Ask us to build more levels"
 		}
 	],
 	callback:function(){}
